@@ -4,7 +4,7 @@ This is a simple Black Jack game made html, css and javascript.
 
 ## How to play
 
-Open this link [Black Jack Game](https://blackjaack.netlify.app/)
+You can play by opening this link [Black Jack Game](https://blackjaack.netlify.app/)
 
 This game is depend on your luck.
 
